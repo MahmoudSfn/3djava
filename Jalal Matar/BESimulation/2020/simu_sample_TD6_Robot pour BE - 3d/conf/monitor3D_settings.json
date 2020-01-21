@@ -1,0 +1,17 @@
+
+{
+    "mappingClasse2Representation3D": [
+        {
+            "classeObjetAMapper": "enstabretagne.travaux_diriges.TD_corrige.MouvementCollisionAvoidance.SimEntity.Robot.Robot",
+            "Representation3DAMapper": "enstabretagne.travaux_diriges.TD_corrige.MouvementCollisionAvoidance.SimEntity.Robot.Representation3D.RobotRepresentation3D",
+            "level4Trasparency": 5
+        },
+        {
+            "classeObjetAMapper": "enstabretagne.travaux_diriges.TD_corrige.MouvementCollisionAvoidance.SimEntity.Wall.Wall",
+            "Representation3DAMapper": "enstabretagne.travaux_diriges.TD_corrige.MouvementCollisionAvoidance.SimEntity.Wall.Representation3D.WallRepresentation3D",
+            "level4Trasparency": 5
+        }
+    ],
+    "frameparseconde": 25
+}
+

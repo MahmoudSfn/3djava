@@ -1,0 +1,7 @@
+{
+    "germeInitial": 5,
+    "nbRepliques":6,
+    "scenarioInstanceClassNames": [
+        "underwaterExplorer.BasicMovement.ScenarioInstanceBasicMovement"
+    ]
+}

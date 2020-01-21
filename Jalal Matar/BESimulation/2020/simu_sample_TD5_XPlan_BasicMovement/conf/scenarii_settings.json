@@ -1,0 +1,12 @@
+{
+    "germeInitial": 5,
+    "nbRepliques": 10,
+    "scenarioInstanceClassNames": [
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement",
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement2",
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement3",
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement4",
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement5",
+        "enstabretagne.travaux_diriges.TD_corrige.Simple3D.ScenarioInstanceBasicMovement6"
+     ]
+}

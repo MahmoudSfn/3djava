@@ -1,0 +1,28 @@
+{
+	"classToFilter": [
+        "enstabretagne.simulation.core.implementation.SimObject",
+        "enstabretagne.simulation.core.implementation.SimEngine",
+        "enstabretagne.simulation.core.implementation.SimObjectDictionary"
+    ],
+    "loggerConfs": [
+        {
+            "parametres": {
+                "FileName": "LoggerAndProba.xlsx",
+                "LoggerKind": "enstabretagne.base.logger.loggerimpl.Excel.ExcelDataLogger",
+                "DirectoryName": ".\\log"
+            }
+        },
+        {
+            "parametres": {
+                "FileName": "LoggerAndProba.csv",
+                "LoggerKind": "enstabretagne.base.logger.loggerimpl.csv.CSVDataLogger",
+                "DirectoryName": ".\\log"
+            }
+        },
+        {
+            "parametres": {
+                "LoggerKind": "enstabretagne.base.logger.loggerimpl.stdoutput.SortieTexteLogger"
+            }
+        }
+    ]
+}

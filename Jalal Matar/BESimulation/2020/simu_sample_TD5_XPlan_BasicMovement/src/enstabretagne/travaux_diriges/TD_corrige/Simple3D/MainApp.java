@@ -1,0 +1,21 @@
+package enstabretagne.travaux_diriges.TD_corrige.Simple3D;
+
+import enstabretagne.monitor.implementation.FX3DMonitor2;
+import enstabretagne.monitor.implementation.UniversalMonitor;
+
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		boolean AFAP = true;
+
+		if (AFAP) {
+			UniversalMonitor um = new UniversalMonitor();
+			um.loadExperiencePlanFromSettings();
+			um.runPlan();
+			um.exit();
+		} else
+			FX3DMonitor2.launch(FX3DMonitor2.class, args);
+		;	
+	}
+}

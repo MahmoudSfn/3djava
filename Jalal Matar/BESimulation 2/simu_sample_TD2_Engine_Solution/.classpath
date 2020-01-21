@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="enstabretagne/monitor/implementation/FX3DMonitor.java|enstabretagne/monitor/implementation/DrawnGroup.java|enstabretagne/monitor/implementation/YXZRotator.java|enstabretagne/monitor/implementation/XYZRotator.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="java/jre1.8.0_144/lib/ext/"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/simu_base_common"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
